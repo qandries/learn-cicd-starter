@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 jobs:
-  styles:
+  style:
     name: Styling
     runs-on: ubuntu-latest
 
